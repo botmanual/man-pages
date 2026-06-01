@@ -97,4 +97,4 @@ ENVIRONMENT
 SEE ALSO
        dpkg(1), deb-triggers(5), /usr/share/doc/dpkg/spec/triggers.txt.
 
-1.22.6                            2025-09-18                   dpkg-trigger(1)
+1.22.6                            2026-05-06                   dpkg-trigger(1)

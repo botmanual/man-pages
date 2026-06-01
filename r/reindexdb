@@ -1,4 +1,4 @@
-REINDEXDB(1)            PostgreSQL 16.13 Documentation            REINDEXDB(1)
+REINDEXDB(1)            PostgreSQL 16.14 Documentation            REINDEXDB(1)
 
 NAME
        reindexdb - reindex a PostgreSQL database
@@ -179,4 +179,4 @@ EXAMPLES
 SEE ALSO
        REINDEX(7)
 
-PostgreSQL 16.13                     2026                         REINDEXDB(1)
+PostgreSQL 16.14                     2026                         REINDEXDB(1)

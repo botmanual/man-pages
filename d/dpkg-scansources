@@ -77,4 +77,4 @@ ENVIRONMENT
 SEE ALSO
        deb-override(5), deb-extra-override(5), dpkg-scanpackages(1).
 
-1.22.6                            2025-09-18               dpkg-scansources(1)
+1.22.6                            2026-05-06               dpkg-scansources(1)

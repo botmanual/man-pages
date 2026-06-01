@@ -153,4 +153,4 @@ SEE ALSO
        deb-substvars(5),         deb-src-control(5),         deb-src-files(5),
        deb-changelog(5), deb-changes(5).
 
-1.22.6                            2025-09-18                dpkg-genchanges(1)
+1.22.6                            2026-05-06                dpkg-genchanges(1)

@@ -93,4 +93,4 @@ EXAMPLES
 SEE ALSO
        deb(5), deb-control(5), dpkg(1), dpkg-deb(1), find(1), xargs(1).
 
-1.22.6                            2025-09-18                      dpkg-name(1)
+1.22.6                            2026-05-06                      dpkg-name(1)

@@ -1,4 +1,4 @@
-CLUSTERDB(1)            PostgreSQL 16.13 Documentation            CLUSTERDB(1)
+CLUSTERDB(1)            PostgreSQL 16.14 Documentation            CLUSTERDB(1)
 
 NAME
        clusterdb - cluster a PostgreSQL database
@@ -139,4 +139,4 @@ EXAMPLES
 SEE ALSO
        CLUSTER(7)
 
-PostgreSQL 16.13                     2026                         CLUSTERDB(1)
+PostgreSQL 16.14                     2026                         CLUSTERDB(1)

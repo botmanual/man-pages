@@ -1,4 +1,4 @@
-CREATEUSER(1)           PostgreSQL 16.13 Documentation           CREATEUSER(1)
+CREATEUSER(1)           PostgreSQL 16.14 Documentation           CREATEUSER(1)
 
 NAME
        createuser - define a new PostgreSQL user account
@@ -252,4 +252,4 @@ EXAMPLES
 SEE ALSO
        dropuser(1), CREATE ROLE (CREATE_ROLE(7)), createrole_self_grant
 
-PostgreSQL 16.13                     2026                        CREATEUSER(1)
+PostgreSQL 16.14                     2026                        CREATEUSER(1)

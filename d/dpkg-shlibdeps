@@ -327,4 +327,4 @@ DIAGNOSTICS
 SEE ALSO
        deb-substvars(5), deb-shlibs(5), deb-symbols(5), dpkg-gensymbols(1).
 
-1.22.6                            2025-09-18                 dpkg-shlibdeps(1)
+1.22.6                            2026-05-06                 dpkg-shlibdeps(1)

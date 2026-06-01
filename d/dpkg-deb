@@ -283,4 +283,4 @@ SEE ALSO
        /usr/share/doc/dpkg/spec/rootless-builds.txt,  deb(5),  deb-control(5),
        dpkg(1), dselect(1).
 
-1.22.6                            2025-09-18                       dpkg-deb(1)
+1.22.6                            2026-05-06                       dpkg-deb(1)

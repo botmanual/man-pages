@@ -47,4 +47,4 @@ FILES
 SEE ALSO
        deb-src-files(5).
 
-1.22.6                            2025-09-18               dpkg-distaddfile(1)
+1.22.6                            2026-05-06               dpkg-distaddfile(1)

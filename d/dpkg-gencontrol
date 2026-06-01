@@ -128,4 +128,4 @@ FILES
 SEE ALSO
        deb-substvars(5), deb-src-control(5), deb-changelog(5), deb-control(5).
 
-1.22.6                            2025-09-18                dpkg-gencontrol(1)
+1.22.6                            2026-05-06                dpkg-gencontrol(1)
