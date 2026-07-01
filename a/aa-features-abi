@@ -47,4 +47,4 @@ SEE ALSO
        apparmor(7),         apparmor.d(5),         aa_features(3),         and
        <https://wiki.apparmor.net>.
 
-AppArmor 4.0.1                    2026-02-20                AA-FEATURES-ABI(1)
+AppArmor 4.0.1                    2026-04-13                AA-FEATURES-ABI(1)

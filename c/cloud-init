@@ -21,7 +21,7 @@ OPTIONS
 
        --all-stages
               INTERNAL: Run cloud-init's stages under a single process using a
-              syncronization protocol. This is not intended for CLI usage.
+              synchronization protocol. This is not intended for CLI usage.
 
 SUBCOMMANDS
        Please see the help output for each subcommand for additional  details,

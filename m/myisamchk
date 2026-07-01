@@ -1206,7 +1206,7 @@ MYISAMCHK MEMORY USAGE
        --safe-recover instead of --recover.
 
 COPYRIGHT
-       Copyright © 1997, 2025, Oracle and/or its affiliates.
+       Copyright © 1997, 2026, Oracle and/or its affiliates.
 
        This documentation is free software; you can redistribute it and/or
        modify it only under the terms of the GNU General Public License as
@@ -1230,4 +1230,4 @@ SEE ALSO
 AUTHOR
        Oracle Corporation (http://dev.mysql.com/).
 
-MySQL 8.0                         12/11/2025                      MYISAMCHK(1)
+MySQL 8.0                         03/23/2026                      MYISAMCHK(1)

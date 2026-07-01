@@ -25,16 +25,12 @@ OPTIONS
        -l, --long
               Report extended cloud-id information as tab-delimited string
 
-       -i <data>, --instance-data <data>
-              Path to instance-data.json file. Default is  /run/cloud-init/in‐
-              stance-data.json
-
 EXIT STATUS
        0      On success
 
        1      Due to an error
 
-       2      Due  to  cloud-init  in a disabled state. See: cloud-init status
+       2      Due to cloud-init in a disabled state.  See:  cloud-init  status
               --long
 
        3      The cloud-init generator and discovery has not yet run.

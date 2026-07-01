@@ -20,6 +20,9 @@ CORE COMMANDS
        gh-codespace(1)
               Connect to and manage codespaces
 
+       gh-discussion(1)
+              Work with GitHub Discussions (preview)
+
        gh-gist(1)
               Manage gists
 
@@ -131,4 +134,4 @@ EXAMPLE
        $ gh repo clone cli/cli
        $ gh pr checkout 321
 
-GitHub CLI 2.92.0                  Apr 2026                              GH(1)
+GitHub CLI 2.95.0                  Jun 2026                              GH(1)

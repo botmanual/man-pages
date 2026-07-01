@@ -107,4 +107,4 @@ MODIFICATION HISTORY
 SEE ALSO
        perl(1), perlxs(1), perlxstut(1), ExtUtils::ParseXS
 
-perl v5.38.2                      2025-07-25                         XSUBPP(1)
+perl v5.38.2                      2026-06-12                         XSUBPP(1)

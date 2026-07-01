@@ -94,4 +94,4 @@ DESCRIPTION
 SEE ALSO
        iconv(1) locale(3) Encode Encode::Supported Encode::Alias PerlIO
 
-perl v5.38.2                      2025-07-25                         PICONV(1)
+perl v5.38.2                      2026-06-12                         PICONV(1)
