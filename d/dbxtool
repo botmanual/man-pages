@@ -1,7 +1,7 @@
 dbxtool(1)                     dbxtool man page                     dbxtool(1)
 
 NAME
-       dbxtool — modify the dbx revocation list
+       dbxtool - modify the dbx revocation list
 
 SYNOPSIS
        dbxtool [CMD]
@@ -23,4 +23,4 @@ BUGS
 SEE ALSO
        <fwupdtool(1)> <fwupdmgr(1)>
 
-1.9.34                                                              dbxtool(1)
+2.0.20                                                              dbxtool(1)

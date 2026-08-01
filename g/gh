@@ -134,4 +134,4 @@ EXAMPLE
        $ gh repo clone cli/cli
        $ gh pr checkout 321
 
-GitHub CLI 2.95.0                  Jun 2026                              GH(1)
+GitHub CLI 2.96.0                  Jul 2026                              GH(1)

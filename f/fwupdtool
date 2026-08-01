@@ -1,7 +1,7 @@
 fwupdtool(1)      standalone firmware update utility man page     fwupdtool(1)
 
 NAME
-       fwupdtool — standalone firmware update utility
+       fwupdtool - standalone firmware update utility
 
 SYNOPSIS
        fwupdtool [CMD]
@@ -36,4 +36,4 @@ BUGS
 SEE ALSO
        <fwupdmgr(1)> <fwupd.conf(5)>
 
-1.9.34                                                            fwupdtool(1)
+2.0.20                                                            fwupdtool(1)
