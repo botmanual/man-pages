@@ -1,4 +1,4 @@
-PG_RECVLOGICAL(1)       PostgreSQL 16.14 Documentation       PG_RECVLOGICAL(1)
+PG_RECVLOGICAL(1)       PostgreSQL 16.15 Documentation       PG_RECVLOGICAL(1)
 
 NAME
        pg_recvlogical - control PostgreSQL logical decoding streams
@@ -215,8 +215,8 @@ ENVIRONMENT
        diagnostic messages. Possible values are always, auto and never.
 
 NOTES
-       pg_recvlogical will preserve group permissions on the received WAL
-       files if group permissions are enabled on the source cluster.
+       pg_recvlogical will preserve group permissions on the output files if
+       group permissions are enabled on the source cluster.
 
 EXAMPLES
        See Section 49.1 for an example.
@@ -224,4 +224,4 @@ EXAMPLES
 SEE ALSO
        pg_receivewal(1)
 
-PostgreSQL 16.14                     2026                    PG_RECVLOGICAL(1)
+PostgreSQL 16.15                     2026                    PG_RECVLOGICAL(1)
